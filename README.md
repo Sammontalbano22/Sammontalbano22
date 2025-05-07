@@ -1,4 +1,6 @@
+
 # 👋 Hi, I'm Samuel Montalbano
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sammontalbano22&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 I'm a third year Computer Science student at the University of Denver. I am passionate about utalizing my programming skills to expand opportunities for rural students in America.
