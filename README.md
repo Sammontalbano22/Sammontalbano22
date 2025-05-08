@@ -42,7 +42,7 @@ Bachelor of Science in Computer Science and Bachelor of Science in Mathematics
 ## 🛠 TECHNICAL SKILLS
 
 **Programming Languages:**  
-Python (Primary), Java, Swift, MySQL, HTML, CSS  
+Python (Primary), Java, Swift, MySQL, HTML, CSS, C++, C#, C
 
 **Tools & Technologies:**  
 Git, Visual Studio Code, JShell, GAIA GPS, MySQL Workbench, Firebase, OpenAI API, Google APIs, MATLAB, Xcode, GPT Models, GitHub Copilot
