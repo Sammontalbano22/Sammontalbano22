@@ -26,7 +26,8 @@ Bachelor of Science in Computer Science and Bachelor of Science in Mathematics
 
 ## 💻 Personal Projects
 
-- Contribution to an Open Source accessability called [Project Sidewalk](https://dl.acm.org/doi/10.1145/3290605.3300292) project in Partnership with Rochester Institute of Technology. API found here: https://sidewalk-sea.cs.washington.edu/api.This project not only introduced me to how code can be used for accessibility projects, but was also used by RIT in a dataset of Dijkstra implementations. [ProjectSidewalk]
+- Contribution to an Open Source accessability called [Project Sidewalk](https://dl.acm.org/doi/10.1145/3290605.3300292) project in Partnership with Rochester Institute of Technology. API found here: https://sidewalk-sea.cs.washington.edu/api.This project not only introduced me to how code can be used for accessibility projects, but was also used by RIT in a dataset of Dijkstra implementations.
+    - [ProjectSidewalk](https://github.com/Sammontalbano22/ProjectSidewalk)
 
 - A repository containing templates for both beginner and advanced Data Structures supported by LeetCode problems and Projects.
     - [DataStructuresTemplate](https://github.com/Sammontalbano22/DataStructureTemplates)
