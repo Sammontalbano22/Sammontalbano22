@@ -32,7 +32,7 @@ Bachelor of Science in Computer Science and Bachelor of Science in Mathematics
 - During my internship seeking journey, I found it difficult to constantly update my resume to match Job Descriptions while still maintaing a successful ATS compliant template, so I created a ResumeBuilding program that allows for easy updating with GPT 4.0 assistance.
     - [ResumeBuilder](https://github.com/Sammontalbano22/PythonProjects/blob/main/resumebuilder.py)
  
-- This year for my dad's birthday I created a Stardew-Valley style game highlighting our many outdoor adventures. For this project I used the Unity game engine. Not only did this improve my understanding of game development, but it also helped with my understanding of C#
+- This year for my dad's birthday I created a Stardew-Valley style game highlighting our many outdoor adventures. For this project I used the Unity game engine. Not only did this improve my understanding of game development, but it also helped with my understanding of C#.
     - ![Arkansas River Pixel Art](https://github.com/Sammontalbano22/About-Me/blob/main/yay.jpg)
 
 
