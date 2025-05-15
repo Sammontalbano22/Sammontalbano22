@@ -15,7 +15,7 @@ Bachelor of Science in Computer Science and Bachelor of Science in Mathematics
 
 - 🎓 Developed and managed 20+ websites for a rural school accountability program.
     - [SCAPCOLORADO](https://scapcolorado.com/)
-- 💻 Currently Developing an app in swift that provides students with a virtual councelor attempting to alleviate resource inequalities in rural school districts.
+- 💻 Currently Developing an app in swift that provides students with a virtual counselor attempting to alleviate resource inequalities in rural school districts.
     - [RuralPathwaysRepository](https://github.com/Sammontalbano22/RuralPathways)
 - 💻 Developing a Rural Student Partnership program in partnership with First@DU and the Office of Undergraduate Admissions at the University of Denver.
 
