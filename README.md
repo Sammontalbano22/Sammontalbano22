@@ -25,8 +25,14 @@ Bachelor of Science in Computer Science and Bachelor of Science in Mathematics
 
 
 ## 💻 Personal Projects
+- Inspired by the sticky note that guided me to a full-ride scholarship, this app helps users achieve long-term goals through daily habit tracking, reflective prompts, and milestone celebrations. It includes a virtual progress counselor to offer encouragement and accountability. The goal is to make big dreams feel achievable—one small step at a time.
+
+
+     - [StickyNoteGoals](https://github.com/Sammontalbano22/StickyNoteProject)
 
 - Contribution to an Open Source accessability called [Project Sidewalk](https://dl.acm.org/doi/10.1145/3290605.3300292) project in Partnership with Rochester Institute of Technology(RIT). This project is to increase the accessibility of technology including mapping. API found here: https://sidewalk-sea.cs.washington.edu/api.This project not only introduced me to how code can be used for accessibility projects, but was also used by RIT in a dataset of Dijkstra implementations. We contributed our Djikstra Algorithms, as part of a study by RIT on teaching accessible technology design.
+
+  
     - [ProjectSidewalk](https://github.com/Sammontalbano22/ProjectSidewalk)
 
 - A repository containing templates for both beginner and advanced Data Structures supported by LeetCode problems and Projects.
