@@ -1,6 +1,7 @@
 
 # 👋 Hi, I'm Samuel Montalbano 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sammontalbano22&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=gruvbox&rank_icon=github&include_all_commits=true&width=400)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammontalbano22&height=400&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sammontalbano22&show=prs_merged,prs_merged_percentage&theme=gruvbox&rank_icon=github&include_all_commits=true&width=400)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammontalbano22&height=400&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎓 Education
 
