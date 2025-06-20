@@ -8,7 +8,7 @@
 **University of Denver**  
 *Expected Graduation: June 2026*  
 Bachelor of Science in Computer Science and Bachelor of Science in Mathematics  
-**GPA:** 3.59 | **Major GPA:** 3.8 | **Dean's List:** 2024  
+**GPA:** 3.54 | **Major GPA:** 3.9 | **Dean's List:** 2024  
 **Honors:** Daniels Fund Scholar | Provost Scholar | Dean's List Recipient
 
 
