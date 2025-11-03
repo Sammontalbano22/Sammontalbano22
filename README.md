@@ -58,6 +58,10 @@ Git, Visual Studio Code, JShell, GAIA GPS, MySQL Workbench, Firebase, OpenAI API
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
+**Specialist- Apple**  
+*January 2025- Present*
+
+
 **First@DU Program Coordinator- University of Denver**  
 *December 2024- Present*
 - Coordinate between FIRST@DU and the Office of Admissions to develop a program that creates trusting relationships between rural students at the University and rural high school students around the US.
